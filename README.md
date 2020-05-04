@@ -19,8 +19,8 @@ Instructions for running the apping using either Docker or Kubernetes are found 
 
 ### Project Tasks
 
-1.) To run the app in docker, run the script ./run_docker.sh
-2.) To run the app in Kubernetes, you must have minikube installed. Run minikube start then run the script ./run_kubernetes.sh
+* To run the app in docker, run the script ./run_docker.sh
+* To run the app in Kubernetes, you must have minikube installed. Run minikube start then run the script ./run_kubernetes.sh
 
 ### Kubernetes Steps
 
