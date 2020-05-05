@@ -13,8 +13,8 @@ Instructions for running the apping using either Docker or Kubernetes are found 
 ### Project Setup
 * Clone the project
 * Create a virtualenv and activate it.
-    python3 -m venv ~/.devops
-    source ~/.devops/bin/activate
+* python3 -m venv ~/.devops
+* source ~/.devops/bin/activate
 * make install
 
 ### Project Tasks
